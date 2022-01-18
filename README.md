@@ -1,6 +1,6 @@
 # Jason Li
 
-I am a high school student in Canada. I make random things in Python, Node.js or Flask sometimes. Check out [my website](https://jasonli0616.dev)!
+Welcome to my GitHub profile. Check out [my website](https://jasonli0616.dev) for more information!
 
 [![Jasons's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonli0616&theme=dark&show_icons=true&count_private=true)](https://github.com/jasonli0616)
 
